@@ -38,7 +38,7 @@ Emanuel Lasker: “When you see a good move, look for a better one.”
 
 ![Cyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyashma&show_icons=true&theme=dark)
 
-Yep, those numbers are as accurate as it gets. Zero stars, zero commits, zero PRs, zero issues. It’s like I’m the ghostwriter of GitHub. But hey, at least I'm consistent, right? 🌟
+Yep, those numbers are as accurate as it gets. It’s like I’m the ghostwriter of GitHub. But hey, at least I'm consistent, right? 🌟
 
 ---
 
