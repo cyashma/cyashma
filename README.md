@@ -1,1 +1,1 @@
-I dont like you
+Action over words and privacy over exposure.
